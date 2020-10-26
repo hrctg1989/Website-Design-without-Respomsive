@@ -1,0 +1,298 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.template{
+    width: 980px;
+    margin: 0 auto;
+}
+
+.row1 {
+	height: 106px;
+	background-color: #F7F7F7;
+}
+
+.top_header{}
+
+.mid {
+	width: 850px;
+	margin: 0 auto;
+}
+
+.top_header .logo {
+	width: 30%;
+	float: left;
+	padding-top: 12px;
+	font-size: 70px;
+	font-weight: 948;
+}
+
+.top_header .menu {
+	width: 70%;
+	float: left;
+}
+
+.menu ul{}
+
+.menu ul li {
+	display: inline-block;
+	margin-left: 9px;
+	padding: 6px 14px;
+	line-height: 62px;
+	margin-top: 32px;
+}
+.menu ul li:hover{
+	background-color: #0190A9;
+	z-index: -1;
+    
+}
+
+.menu ul li a{
+    text-decoration: none;
+	color: #3b5053;
+	
+}
+.menu ul li a:hover{
+	color: white;
+	background-color: #0190A9;
+}
+
+
+.row2 {
+	height: 400px;
+	width: 100%;
+	background-color: #0190A9;
+}
+.top_banner{}
+ .rghtb{
+	width: 50%;
+	float: left;
+	height: 100%;
+}
+.leftb {
+	width: 50%;
+	float: left;
+	height: 100%;
+	color: white;
+	position: absolute;
+	top: 249px;
+	width: 382px;
+	line-height: 56px;
+}
+.leftb h1 {
+	font-size: 49px;
+}
+.leftb p{}
+.rightb img {
+	height: 361px;
+	margin-left: 325px;
+	margin-top: 39px;
+	position: absolute;
+}.rightb img {
+	height: 361px;
+	margin-left: 325px;
+	margin-top: 39px;
+	position: absolute;
+}
+
+
+.row3 {
+	background-color: #4FAEC2;
+	padding-top: 43px;
+	height: 110px;
+	width: 100%;
+}
+.bottom_benner{}
+.bbannerl {
+	width: 60%;
+	float: left;
+}
+.bbannerl p {
+	text-align: justify;
+}
+.bbannerl p b {
+	font-size: 22px;
+	word-spacing: 3px;
+}
+.bbannerr {
+	width: 40%;
+	float: left;
+	margin-left: 0px;
+	position: absolute;
+	left: 65%;
+	padding-top: 26px;
+}
+.bbannerr a {
+	text-decoration: none;
+	padding: 14px 16px;
+	border: 2px solid #FFF;
+	color: #FFF;
+	border-radius: 29px;
+}
+
+
+
+.row4 {
+	height: 600px;
+	width: 100%;
+	margin-bottom: 85px;
+}
+.news{}
+.newst {
+	
+	padding: 33px 0 33px 0;
+}
+.newst h1 {
+	text-align: center;
+	letter-spacing: 4px;
+	font-size: 50px;
+}
+.news p {
+	margin-top: ;
+	text-align: center;
+	padding-bottom: 18px;
+	line-height: 37px;
+	color: #4FAEC2;
+	font-size: 21px;
+}
+.news hr {
+	width: 100px;
+	margin: 0 auto;
+	color: ;
+	background: ;
+	color: #4FAEC2;
+	height: 4px;
+	background-color: #4FAEC2;
+	border: none;
+	border-radius: 38px;
+}
+
+.newsb {
+	
+}
+.newsbt {
+	width: 250px;
+	float: left;
+	height: 320px;
+	margin: 0px 16px;
+}
+.newsbt img {
+	width: 100%;
+	height: 200px;
+}
+.newsbb {
+	background-color: #4FAEC2;
+	color: white;
+	margin-top: -4px;
+	height: 246px;
+}
+.newsbb h4 {
+	padding: 17px 15px 2px 15px;
+	font-size: 22px;
+}
+.newsbb span {
+	padding: 2px 0px 10px 15px;
+}
+.newsbb p {
+	color: white;
+	text-align: justify;
+	line-height: 25px;
+	padding: 14px 15px;
+	word-spacing: -5px;
+	margin-bottom: 14px;
+	height: ;
+}
+.newsbb a {
+	padding: ;
+	margin-top: ;
+	margin-left: 15px;
+	background-color: ;
+	padding: 7px 15px;
+	border: 2px solid white;
+	text-decoration: none;
+	color: white;
+	border-radius: 10px;
+}
+
+
+.row5 {
+	height: 511px;
+	width: 100%;
+	background: #F7F7F7;
+	margin-bottom: 50px;
+}
+.ser{}
+.sert {
+	padding-top: 42px;
+}
+.sert h1 {
+	text-align: center;
+	letter-spacing: 10px;
+	font-size: 55px;
+	color: #717171;
+}
+.sert p {
+	text-align: center;
+	padding-bottom: 18px;
+	line-height: 37px;
+	color: #A0A0A0;
+	font-size: 21px;
+}
+.sert hr {
+	width: 100px;
+	margin: 0 auto;
+	color: ;
+	background: ;
+	color: #4FAEC2;
+	height: 4px;
+	background-color: #4FAEC2;
+	border: none;
+	border-radius: 38px;
+}
+
+.serb{}
+.serbl {
+	width: 47%;
+	float: left;
+	color: #A0A0A0;
+	margin-left: ;
+	margin-right: 25px;
+}
+.img_part {
+	width: 23%;
+	float: left;
+	margin-top: 50px;
+}
+.img_part img {
+	height: 66px;
+}
+.des_part {
+	margin-top: 50px;
+	text-align: justify;
+	padding: ;
+	line-height: 19px;
+}
+.des_part h4 {
+	margin-bottom: 10px;
+}
+.des_part p{}
+
+.serbr {
+	width: 47%;
+	float: left;
+	color: #A0A0A0;
+	margin-left: 26px;
+}
+.menuimg{
+	
+}
+
+
+.copyright {
+	margin-top: 38px;
+	margin-left: 86px;
+	border: 2px solid gray;
+	padding: 5px 10px;
+	color: #225356;
+}
